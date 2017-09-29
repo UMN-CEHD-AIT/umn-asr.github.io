@@ -2,7 +2,7 @@
 layout: page
 title: Home
 ---
-# ASR Custom Solutions
+# Academic Information Technology
 ## Making a Positive Difference in Students' Lives
 
 ### About Us

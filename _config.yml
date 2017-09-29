@@ -13,18 +13,28 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Academic Support Resources Custom Solutions - University of Minnesota
-email: whit0694@umn.edu
+title: Academic Information Technology | CEHD | University of Minnesota
+email: thoma127@umn.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Academic Support Resources Custom Solutions
+  Academic Information Technology for the College of Education and Human Development at the University of Minnesota
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://umn-asr.github.io" # the base hostname & protocol for your site
-repostiory: "umn-asr/umn-asr.github.io"
+url: "https://umn-cehd-ait.github.io" # the base hostname & protocol for your site
+repostiory: "umn-cehd-ait/umn-cehd-ait.github.io"
 
 # Build settings
 excerpt_separator: <!--break-->
 markdown: kramdown
 theme: minima
 paginate: 5
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md", "vendor", "Gemfile", "Gemfile.lock", "bundle", ".bundle"]
-
+exclude: [
+    ".bundle",
+    "Gemfile",
+    "Gemfile.lock",
+    "Gruntfile.js",
+    "README.md",
+    "bundle",
+    "less",
+    "node_modules",
+    "package.json",
+    "vendor"
+]
