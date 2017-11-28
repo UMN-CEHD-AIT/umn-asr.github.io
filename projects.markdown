@@ -6,56 +6,21 @@ title: Projects
 # Projects
 ## We do cool stuff
 
-ASR Custom Solutions has wide-ranging portfolio of Rails apps, Ruby gems, CLI tools and more. Some of our projects are:
+### VideoAnt video annotation tool
 
-### Student Degree Progress
+[VideoAnt](https://ant.umn.edu/) is a web-based video annotation tool for
+mobile and desktop devices.  Use VideoAnt to add annotations, or comments, to
+web-hosted videos.  VideoAnt-annotated videos are called "Ants".
 
-#### How Close Am I To Graduation?
+### Center for Open Education
 
-Student Degree Progress (SDP) answers that important question. A data-pipeline application that integrates data from multiple applications, SDP provides data for web services, reports, alerts and analytics across the University.
+The Open Textbook Library is just one part of [this center committed to making
+educational resources open and accessible](http://open.umn.edu/).
 
-----
 
-### Tuition and Fee Management
+### Other projects
 
-#### How Much Does This Class Cost?
-
-The Tuition And Fee Management System (TFMS) is the system-of-record for tuition and fees paid by students. Used across all campuses to make sure students pay the right amount for their classes.
-
-----
-
-### One Stop
-
-#### How Do I...?
-
-The One Stop website is how students across the entire UMN system get the answer the questions they need answered. ASR Custom Solutions' expertise led to a site that is useful, accessible and responsive.
-
-<img src="img/one_stop.jpg" />
-
-----
-
-### Workflows
-
-Using WorkflowGen, we develop tools for students to transfer colleges, finish their post-graduate work and take the courses they need to graduate.
-
-----
-
-### One Stop Queue
-
-A hybrid application that uses Ember, Rails and web sockets to help students get better help, faster from our One Stop counselors.
-
-----
-
-### Web Services
-
-Where possible we create public JSON endpoints to serve public data. Some examples:
-
-- [Term](http://terms.umn.edu/active/today) - What term is it today? 
-- [Courses](https://courses.umn.edu/campuses/umnmo/terms/1175/courses.json) - What courses are offered by Campus and Term?
-- [Lib Ed](http://liberal-education-courses.umn.edu/) - What courses satisfy the campus' liberal education requirements?
-
-----
-
-### Gems, Tools, Etc
-
-When we solve a common problem we try to share what we've learned: either as a Ruby Gem, a stand-alone tool or a blog post.
+We also support around 20 web applications to support the College of Education
+and Human Development administration. We also support a custom Wordpress theme
+used for creating child themes, a pattern library and over 100 websites for
+college departments and centers.
