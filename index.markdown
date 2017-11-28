@@ -3,12 +3,28 @@ layout: page
 title: Home
 ---
 # Academic Information Technology
-## Making a Positive Difference in Students' Lives
 
-### About Us
+## About Us
 
-The ASR software development team is a small, dynamic group of developers that value:
-- well-tested software and test-driven development
-- pair programming and team ownership of code
-- close, empathetic collaboration with customers
-- professional development and continuous learning 
+## Team Lead - Brady Sloan
+The focus of this position is the leadership and supervision of the Application
+Development Team in developing and maintaining a broad portfolio of web-enabled
+database applications to support technology-enhanced teaching and learning
+projects, the college's public website and departmental websites, and the
+business needs of CEHD's administrative units. The team was recently
+reorganized and expanded to consolidate all AITS developers on one team. Team
+strategy is oriented towards developers being embedded in other teams in AITS
+for direct support of those team's activities.
+
+## Tony Thomas - Developer 3
+This position directly supports CEHD's web team in all development activities
+pertaining to CEHD's public website and numerous departmental and center
+websites.
+
+## Vance Schrimpf - Developer 2
+This position directly supports over 20 applications meeting the business needs
+of CEHD's administrative units.
+
+Vacant - Developer 3
+This position directly supports over 20 applications meeting the business needs
+of CEHD's administrative units.
